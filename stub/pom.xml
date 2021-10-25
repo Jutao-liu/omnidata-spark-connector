@@ -16,8 +16,7 @@
     <version>1.0.0</version>
 
     <modules>
-        <module>core</module>
-        <module>client</module>
+        <module>server</module>
     </modules>
 
     <properties>

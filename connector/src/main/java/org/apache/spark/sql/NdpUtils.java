@@ -1,6 +1,6 @@
 package org.apache.spark.sql;
 
-import com.huawei.boostkit.omnidata.type.*;
+import com.huawei.boostkit.omnidata.decode.type.*;
 
 import io.airlift.slice.Slice;
 import io.prestosql.spi.relation.ConstantExpression;

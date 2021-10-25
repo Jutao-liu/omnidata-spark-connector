@@ -16,9 +16,9 @@ import com.huawei.boostkit.omnidata.model.datasource.hdfs.HdfsOrcDataSource;
 import com.huawei.boostkit.omnidata.model.datasource.hdfs.HdfsParquetDataSource;
 import com.huawei.boostkit.omnidata.reader.impl.DataReaderImpl;
 import com.huawei.boostkit.omnidata.spark.SparkDeserializer;
-import com.huawei.boostkit.omnidata.type.DecodeType;
-import com.huawei.boostkit.omnidata.type.LongDecodeType;
-import com.huawei.boostkit.omnidata.type.RowDecodeType;
+import com.huawei.boostkit.omnidata.decode.type.DecodeType;
+import com.huawei.boostkit.omnidata.decode.type.LongDecodeType;
+import com.huawei.boostkit.omnidata.decode.type.RowDecodeType;
 
 import com.google.common.collect.ImmutableMap;
 
